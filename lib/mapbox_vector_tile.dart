@@ -1,0 +1,1 @@
+library mapbox_vector_tile;

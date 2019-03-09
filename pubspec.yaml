@@ -1,0 +1,24 @@
+name: mapbox_vector_tile
+description: A new Flutter project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  protobuf: any
+  mapbox_geojson:
+    path: /Users/long1eu/pull_requests/IdeaProjects/mapbox_dart/mapbox_geojson
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  #
