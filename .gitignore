@@ -10,3 +10,5 @@ ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
 generated/i18n.dart
 generated/**
+res/**
+android/**
